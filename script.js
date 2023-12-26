@@ -8,6 +8,7 @@
 
 // document.querySelector('.guess').value = 5;
 // console.log(document.querySelector('.guess').value);
+//
 
 let secretnumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
